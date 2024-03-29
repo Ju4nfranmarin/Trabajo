@@ -1,0 +1,59 @@
+body{background-color:
+    black ;}
+/** fondo **/
+ .logo{ ;}
+    
+ /** header caracteristicas **/
+    .header{
+    border-bottom: 1px;
+    }   
+
+     .header nav ul{
+        list-style-type: none;
+        display: flex;
+    }
+    .header nav ul li{
+        margin: 5px;
+    }
+
+ /** header caracteristicas **/
+
+
+a{color:
+     ghostwhite;}
+
+h2{color:
+    white;}
+
+p{color: 
+    white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;}
+ 
+
+footer{color: 
+    whitesmoke;
+     font-size: 28px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+
+.enlace-albumes{ color: white(255, 157, 0);
+    font-size: 10ox ;
+     text-decoration: none ;
+    font-family:cursive; 
+     font-weight: bold;}
+
+.enlace-negro{font-size: 40px; 
+    color: white;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;}
+
+    lorem{color:
+     grey;}
+
+     h2{font-size:
+     30px;}
+
+     main section p{
+    font-size: 45px;}
+    h4{color: indigo ;}
+    
